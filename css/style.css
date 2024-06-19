@@ -24,6 +24,7 @@ nav ul{
 nav ul li {
     font-size: 25px;
     margin: 0 40px;
+    font-family: 'Harry Potter', sans-serif;
 }
 
 nav ul li a {
@@ -53,7 +54,8 @@ h1{
     text-align: center;
     font-size: 40px; 
     padding-top: 10px;
-    color:orangered;
+    color:rgb(255, 149, 0);
+    font-family: 'Harry Potter', sans-serif;
 }
 
 .intro p{
@@ -63,7 +65,7 @@ h1{
 }
 
 .intro a{
-    color:yellow;
+    color:rgb(255, 149, 0);
 }
 
 /* PERZONALIZACION DE SECCIONES */
@@ -79,8 +81,9 @@ h1{
 
 h2{
     text-align: center;
-    font-size: 30px;
-    color: yellow
+    font-size: 40px;
+    color:rgb(255, 149, 0);
+    font-family: 'Harry Potter', sans-serif;
 }
 
 .ventana p {
@@ -114,6 +117,7 @@ footer{
     padding: 5px;
     text-align: center;
     color: white;
+    font-family: 'Harry Potter', sans-serif;
 }
 
 /* PERZONALIZACION DE PERSONAJES */
@@ -148,6 +152,7 @@ footer{
     font-size: 30px;
     margin-bottom: 15px;
     color:rgb(255, 149, 0);
+    font-family: 'Harry Potter', sans-serif;
 }
 
 .card p {
