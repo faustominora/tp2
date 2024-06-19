@@ -106,3 +106,12 @@ img {
     width: 100%;
     border-radius: 35px;
 }
+
+/* PERZONALIZACION DE FOOTER */
+
+footer{
+    background-color: #04111a;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
