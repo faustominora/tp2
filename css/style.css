@@ -65,3 +65,44 @@ h1{
 .intro a{
     color:yellow;
 }
+
+/* PERZONALIZACION DE SECCIONES */
+
+.ventana{
+    background-color: #6e5136;
+    width: 60%;
+    margin: 0 auto;
+    padding: 25px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: yellow
+}
+
+.ventana p {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+li {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.img{
+    margin-bottom: 5px;
+    margin: 25px 25px;
+}
+
+img {
+    width: 100%;
+    border-radius: 35px;
+}
