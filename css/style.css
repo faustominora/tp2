@@ -34,3 +34,34 @@ nav ul li a:hover {
     color: yellow;
     transition: ease;
 }
+
+
+/* PERZONALIZACION DE LA INTRODUCCION */
+
+.intro {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.subtitulo {
+    padding-top: 20px;
+    text-align: center;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px; 
+    padding-top: 10px;
+    color:orangered;
+}
+
+.intro p{
+    font-size: 20px;
+    color: white;
+    font-weight:bold
+}
+
+.intro a{
+    color:yellow;
+}
